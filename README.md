@@ -28,7 +28,8 @@
 
 **[Vet_Clinic]** is a database that stores a list of animals and their weight, DOB, name, id, escape attempts and if they are neutered or not.
 
-[diagram](https://github.com/Gdiazdiaz/Clinic--DB/diagram.png)
+<img src="diagrama.png" alt="logo" width="540"  height="auto" />
+  <br/>
 
 ## 🛠 Built With <a name="built-with"></a>
 
